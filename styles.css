@@ -5,7 +5,6 @@
 }
 body{
     background: black;
-    
 }
 div{
     border-radius: 5px;
@@ -46,7 +45,7 @@ div{
     grid-template-columns: repeat(4,1fr);
     grid-template-rows: repeat(12,150px);
     width: 915px;
-    height: 1300px;
+    height: 1700px;
     position: absolute;
     left: 140px;
     gap: 10px;
@@ -100,6 +99,7 @@ div{
 .img9{
     grid-row: 9/11;
     grid-column: 3/7;
-    background-image: url(./images/img.jpeg);
+    background-image: url(./images/image0.jpeg);
     background-size:cover;
+    
 }
